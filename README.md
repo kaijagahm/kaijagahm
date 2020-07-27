@@ -4,14 +4,14 @@ I'm Kaija. I just graduated from Yale with a B.S. in E&EB (Ecology & Evolutionar
 
 I work mostly in R, although I've dabbled in MATLAB. I'll write more soon about my other projects. In the meantime, a few quick things:
 
-- 🔭 I’m currently working on maintaining a database for a collab project between the [Cary Institute of Ecosystem Studies](https://www.caryinstitute.org/) and the [Jones Lab](https://www3.nd.edu/~sjones20/) at Notre Dame. I track issues for that over [here](https://github.com/MFEh2o/db/issues).
+- 🔭  I’m currently working on maintaining a database for a collab project between the [Cary Institute of Ecosystem Studies](https://www.caryinstitute.org/) and the [Jones Lab](https://www3.nd.edu/~sjones20/) at Notre Dame. I track issues for that over [here](https://github.com/MFEh2o/db/issues).
 
-- 🌱 I’m currently learning [Shiny](https://shiny.rstudio.com/) so I can build an interactive dashboard for my other job, with the Yale Grammatical Diversity Project ([YGDP](https://ygdp.yale.edu/)). I'm also building a relational database from scratch for the YGDP. Some preliminary thoughts on that are [here](https://github.com/michaelchang64/ygdpDB/issues/15).
+- 🌱  I’m currently learning [Shiny](https://shiny.rstudio.com/) so I can build an interactive dashboard for my other job, with the Yale Grammatical Diversity Project ([YGDP](https://ygdp.yale.edu/)). I'm also building a relational database from scratch for the YGDP. Some preliminary thoughts on that are [here](https://github.com/michaelchang64/ygdpDB/issues/15).
 
-- :bird: I blog about R at [woodpeckR](https://thewoodpeckr.wordpress.com/), although that blog might be migrating soon (stay tuned).
+- :bird:  I blog about R at [woodpeckR](https://thewoodpeckr.wordpress.com/), although that blog might be migrating soon (stay tuned).
 
-- 💬 Ask me about birds, frogs, data viz, and the [tidyverse](https://www.tidyverse.org/) :milky_way:
+- 💬  Ask me about birds, frogs, data viz, and the [tidyverse](https://www.tidyverse.org/) :milky_way:
 
-- 📫 How to reach me: email is most direct (kaija.gahm@aya.yale.edu). Twitter DMs are also great (@kaija_bean). 
+- 📫  How to reach me: email is most direct (kaija.gahm@aya.yale.edu). Twitter DMs are also great (@kaija_bean). 
 
-- 😄 Pronouns: She/her
+- 😄  Pronouns: She/her
