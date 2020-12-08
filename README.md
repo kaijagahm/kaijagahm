@@ -4,7 +4,7 @@ I'm Kaija. I just graduated from Yale with a B.S. in E&EB (Ecology & Evolutionar
 
 I work mostly in R, although I've dabbled in MATLAB. I'll write more soon about my other projects. In the meantime, a few quick things:
 
-- 🌱  I’m currently learning [Shiny](https://shiny.rstudio.com/) so I can build an interactive dashboard for my other job, with the Yale Grammatical Diversity Project ([YGDP](https://ygdp.yale.edu/)). This is very much a work in progress, but you can check out a [prototype](https://kaijagahm.shinyapps.io/ygdp_proto/). I'm also building a relational database for the YGDP. Here are some [preliminary thoughts](https://github.com/michaelchang64/ygdpDB/issues/15) on that.
+- 🌱  I’m currently learning [Shiny](https://shiny.rstudio.com/) so I can build an interactive dashboard for my other job, with the Yale Grammatical Diversity Project ([YGDP](https://ygdp.yale.edu/)). This is very much a work in progress, but you can check out a [prototype](https://kaijagahm.shinyapps.io/ygdp_proto/). I'm also building a relational database for the YGDP. You can find my progress on that [here](https://github.com/kaijagahm/ygdpDB) on that.
 
 - :fish: I’m currently working on maintaining a database for a collab project between the [Cary Institute of Ecosystem Studies](https://www.caryinstitute.org/) and the [Jones Lab](https://www3.nd.edu/~sjones20/) at Notre Dame. [I track issues for that over here](https://github.com/MFEh2o/db/issues). I also built a [Shiny app](https://gahmkcaryinstitute.shinyapps.io/lakeLatLongFinder/) to help researchers locate their study lakes.
 
