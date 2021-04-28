@@ -10,7 +10,7 @@ I work mostly in R, although I've dabbled in MATLAB, and I'd like to learn Pytho
 
 - :bird:  My blog, which covers mostly R-related topics, has recently migrated from its old location at [woodpeckR](https://thewoodpeckr.wordpress.com/) to [a page on my personal site](https://kaijagahm.netlify.app/blog.html). The old woodpeckR site is still valid, though!
 
-- ❔  Ask me about birds, frogs, data viz, and the [tidyverse](https://www.tidyverse.org/) :milky_way:
+- ❓  Ask me about birds, frogs, data viz, and the [tidyverse](https://www.tidyverse.org/) :milky_way:
 
 - 📫  How to reach me: I love getting emails at (kaija.gahm@aya.yale.edu). Twitter DMs are also great (@kaija_bean). 
 
