@@ -4,9 +4,9 @@ I'm Kaija. I'm a biologist and data scientist. I'll be starting a PhD in the Pin
 
 I work mostly in R, although I've dabbled in MATLAB, and I'd like to learn Python soon. 
 
-- :fish:  I currently work as a database manager for a collaborative project between the [Cary Institute of Ecosystem Studies](https://www.caryinstitute.org/) and the [Jones Lab](https://www3.nd.edu/~sjones20/) at Notre Dame. [I track issues for that over here](https://github.com/MFEh2o/db/issues). I also built a [Shiny app](https://gahmkcaryinstitute.shinyapps.io/lakeLatLongFinder/) to help researchers locate their study lakes.
+- :fish:  I recently finished working as a database manager for a collaborative project between the [Cary Institute of Ecosystem Studies](https://www.caryinstitute.org/) and the [Jones Lab](https://www3.nd.edu/~sjones20/) at Notre Dame. [I track issues for that over here](https://github.com/MFEh2o/db/issues). I also built a [Shiny app](https://gahmkcaryinstitute.shinyapps.io/lakeLatLongFinder/) to help researchers locate their study lakes.
 
-- 💬  I'm recently finished working with the Yale Grammatical Diversity Project ([YGDP](https://ygdp.yale.edu/)) to [manage their research data](https://github.com/kaijagahm?tab=projects). Check out the [interactive Shiny dashboard](https://kaijagahm.shinyapps.io/ygdpDashboard/) that I built over the past several months ([code here](https://github.com/kaijagahm/ygdpDashboard)). I'm also working on a [relational database](https://github.com/kaijagahm/ygdpDB) for the YGDP.
+- 💬  I also worked with the Yale Grammatical Diversity Project ([YGDP](https://ygdp.yale.edu/)) to [manage their research data](https://github.com/kaijagahm?tab=projects). Check out the [interactive Shiny dashboard](https://kaijagahm.shinyapps.io/ygdpDashboard/) that I built over the past several months ([code here](https://github.com/kaijagahm/ygdpDashboard)). I'm also working on a [relational database](https://github.com/kaijagahm/ygdpDB) for the YGDP.
 
 - :bird:  My blog, which covers mostly R-related topics, has recently migrated from its old location at [woodpeckR](https://thewoodpeckr.wordpress.com/) to [a page on my personal site](https://kaijagahm.netlify.app/blog.html). The old woodpeckR site is still valid, though!
 
