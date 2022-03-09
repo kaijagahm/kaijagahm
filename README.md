@@ -2,7 +2,7 @@
 
 I'm Kaija (rhymes with Maya). I'm a biologist and data scientist. Currently, I'm a first-year PhD student in the Pinter-Wollman lab at UCLA, studying the movement ecology and social behavior of vultures. 
 
-<img width="844" alt="A social network diagram showing silhouettes of Griffon vultures connected by edges of varying thicknesses.">
+![A social network diagram showing silhouettes of Griffon vultures connected by edges of varying thicknesses.](vultureNetwork.png)
 
 I have a B.S. in E&EB (Ecology & Evolutionary Biology) from Yale, where I studied wood frog tadpoles for my thesis [project](https://github.com/kaijagahm/BurstSpeed). I investigated whether a tradeoff between development rate (e.g. how fast the tadpole gets bigger and grows legs) and performance (e.g. how fast the tadpole startle-swims ~~when it gets attacked by a predator~~ when you poke its tail with a stick) could help explain countergradient variation in development rate. If you want to learn more, [I gave a talk](https://drive.google.com/file/d/1CxEaJEx65V1qLG2tahUCO8qabylamchG/view?usp=sharing). The results are published [here](https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.2434). Email me at kaija.gahm@aya.yale.edu to get access to a PDF if you hit a paywall on that link!
 
