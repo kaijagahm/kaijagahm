@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Kaija (rhymes with Maya). I'm a biologist and data scientist. Currently, I'm a first-year PhD student in the Pinter-Wollman lab at UCLA, working on the movement ecology and social behavior of vultures. I have a B.S. in E&EB (Ecology & Evolutionary Biology) from Yale, where I studied wood frog tadpoles for my thesis [project](https://github.com/kaijagahm/BurstSpeed). I investigated whether a tradeoff between development rate (e.g. how fast the tadpole gets bigger and grows legs) and performance (e.g. how fast the tadpole startle-swims ~~when it gets attacked by a predator~~ when you poke its tail with a stick) could help explain countergradient variation in development rate. If you want to learn more, [I gave a talk](https://drive.google.com/file/d/1CxEaJEx65V1qLG2tahUCO8qabylamchG/view?usp=sharing). The results are published [here](https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.2434). Email me at kaija.gahm@aya.yale.edu to get access to a PDF if you hit a paywall on that link!
+I'm Kaija (rhymes with Maya). I'm a biologist and data scientist. Currently, I'm a first-year PhD student in the Pinter-Wollman lab at UCLA, studying the movement ecology and social behavior of vultures. 
+
+I have a B.S. in E&EB (Ecology & Evolutionary Biology) from Yale, where I studied wood frog tadpoles for my thesis [project](https://github.com/kaijagahm/BurstSpeed). I investigated whether a tradeoff between development rate (e.g. how fast the tadpole gets bigger and grows legs) and performance (e.g. how fast the tadpole startle-swims ~~when it gets attacked by a predator~~ when you poke its tail with a stick) could help explain countergradient variation in development rate. If you want to learn more, [I gave a talk](https://drive.google.com/file/d/1CxEaJEx65V1qLG2tahUCO8qabylamchG/view?usp=sharing). The results are published [here](https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.2434). Email me at kaija.gahm@aya.yale.edu to get access to a PDF if you hit a paywall on that link!
 
 I work mostly in R, although I've dabbled in MATLAB, and I'd like to learn Python soon. 
 
@@ -10,7 +12,9 @@ I work mostly in R, although I've dabbled in MATLAB, and I'd like to learn Pytho
 
 - :bird:  My blog, which covers mostly R-related topics, has recently migrated from its old location at [woodpeckR](https://thewoodpeckr.wordpress.com/) to [a page on my personal site](https://kaijagahm.netlify.app/blog.html). The old woodpeckR site is still valid, though!
 
-- ❓  Ask me about birds, frogs, data viz, and the [tidyverse](https://www.tidyverse.org/) :milky_way:
+- :handshake: I volunteer as a mentor in the R For Data Science community [Slack workspace](r4ds.io/join), where I hold weekly "office hours". I also answer questions over at [RStudio Community](https://community.rstudio.com/u/kaijabean/activity/replies). 
+
+- ❓  Ask me about birds, frogs, and the [tidyverse](https://www.tidyverse.org/) :milky_way:
 
 - 📫  How to reach me: I love getting emails at (kaija.gahm@aya.yale.edu). Twitter DMs are also great (@kaija_bean). 
 
