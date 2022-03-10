@@ -20,6 +20,11 @@ I work mostly in R, although I've dabbled in MATLAB, and I'd like to learn Pytho
 
 💬  I also worked on linguistics with the Yale Grammatical Diversity Project ([YGDP](https://ygdp.yale.edu/)) to [manage their research data](https://github.com/kaijagahm?tab=projects). Check out the [interactive Shiny dashboard](https://ygdp.shinyapps.io/ygdpDashboard/) that I built from scratch, without knowing anything about Shiny going in ([code here](https://github.com/kaijagahm/ygdpDashboard)). I also built a [relational database](https://github.com/kaijagahm/ygdpDB) for the YGDP.
 
+
+<p align="center">
+  <img src="ygdpDashboard.png" alt="A screenshot of the front page of the YGDP Dashboard I built in Shiny." width="700"/>
+</p>
+
 ✍️  My blog, which covers mostly R-related topics, has recently migrated from its old location at [woodpeckR](https://thewoodpeckr.wordpress.com/) to [a page on my personal site](https://kaijagahm.netlify.app/blog.html). The old woodpeckR site is still valid, though!
 
 🤝 I volunteer as a mentor in the R For Data Science community [Slack workspace](r4ds.io/join), where I hold weekly "office hours". I also answer questions over at [RStudio Community](https://community.rstudio.com/u/kaijabean/activity/replies). 
