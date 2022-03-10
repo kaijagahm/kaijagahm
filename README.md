@@ -2,6 +2,8 @@
 
 I'm Kaija (rhymes with Maya). I'm a biologist and data scientist. 
 
+**[Website](https://kaijagahm.netlify.app/) | [Twitter](https://twitter.com/kaija_bean) | [LinkedIn](https://www.linkedin.com/in/kaija-gahm-205890167/)**
+
 🐦 Currently, I'm a first-year PhD student in the Pinter-Wollman lab at UCLA, studying the movement ecology and social behavior of vultures.
 
 <p align="center">
