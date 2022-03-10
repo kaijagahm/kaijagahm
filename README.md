@@ -14,15 +14,15 @@ I work mostly in R, although I've dabbled in MATLAB, and I'd like to learn Pytho
 
 **Some other things about me:**
 
-🐟  I recently finished working as a database manager for a collaborative project between the [Cary Institute of Ecosystem Studies](https://www.caryinstitute.org/) and the [Jones Lab](https://www3.nd.edu/~sjones20/) at Notre Dame. [I tracked issues for that over here](https://github.com/MFEh2o/db/issues). I also built a [Shiny app](https://joneslabnd.shinyapps.io/lakeLatLongFinder/) to help researchers locate their study lakes.
+🐟  I recently finished working as a database manager for a freshwater ecology project with the [Cary Institute of Ecosystem Studies](https://www.caryinstitute.org/) and the [Jones Lab](https://www3.nd.edu/~sjones20/) at Notre Dame. [I tracked issues for that over here](https://github.com/MFEh2o/db/issues). I also built a [Shiny app](https://joneslabnd.shinyapps.io/lakeLatLongFinder/) to help researchers locate the lakes in their study.
 
-💬  I also worked with the Yale Grammatical Diversity Project ([YGDP](https://ygdp.yale.edu/)) to [manage their research data](https://github.com/kaijagahm?tab=projects). Check out the [interactive Shiny dashboard](https://ygdp.shinyapps.io/ygdpDashboard/) that I built over the past several months ([code here](https://github.com/kaijagahm/ygdpDashboard)). I also built a [relational database](https://github.com/kaijagahm/ygdpDB) for the YGDP.
+💬  I also worked on linguistics with the Yale Grammatical Diversity Project ([YGDP](https://ygdp.yale.edu/)) to [manage their research data](https://github.com/kaijagahm?tab=projects). Check out the [interactive Shiny dashboard](https://ygdp.shinyapps.io/ygdpDashboard/) that I built from scratch, without knowing anything about Shiny going in ([code here](https://github.com/kaijagahm/ygdpDashboard)). I also built a [relational database](https://github.com/kaijagahm/ygdpDB) for the YGDP.
 
 ✍️  My blog, which covers mostly R-related topics, has recently migrated from its old location at [woodpeckR](https://thewoodpeckr.wordpress.com/) to [a page on my personal site](https://kaijagahm.netlify.app/blog.html). The old woodpeckR site is still valid, though!
 
 🤝 I volunteer as a mentor in the R For Data Science community [Slack workspace](r4ds.io/join), where I hold weekly "office hours". I also answer questions over at [RStudio Community](https://community.rstudio.com/u/kaijabean/activity/replies). 
 
-❓  Ask me about birds, frogs, and the [tidyverse](https://www.tidyverse.org/) :milky_way:
+🧑‍🤝‍🧑 I'm also on the board of directors for [SORTEE](sortee.org) (Society for Open, Reliable, and Transparent Ecology and Evolutionary biology), which advocates for open science and reproducibility in EEB.
 
 📫  How to reach me: I love getting emails at (kaija.gahm@aya.yale.edu). Twitter DMs are also great (@kaija_bean). 
 
